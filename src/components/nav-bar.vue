@@ -1,6 +1,6 @@
 <template>
   <div
-    class="w-full items-center fixed z-20 sm:px-10 py-1 px-5 sm:py-3 flex justify-around"
+    class="w-full items-center fixed z-20 sm:px-10 px-2 py-1 sm:py-3 flex justify-between"
     :class="isVisible ? 'bg-[#003366]/70' : 'bg-transparent'"
   >
     <div
