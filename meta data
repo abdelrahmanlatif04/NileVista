@@ -1,0 +1,20 @@
+Pharaoh Gold #CBA135
+
+Desert Sand #EDC9AF
+
+Nile Blue #003366
+
+Papyrus White #FAF8F1
+
+Accent Red (for CTA) #D62828
+
+
+destinations = [
+  "Aswan",
+  "Cairo",
+  "Hurghada",
+  "Luxor",
+  "Marsa Alam",
+  "Mersa Matruh",
+  "Sharm El Sheikh",
+];
